@@ -187,7 +187,9 @@ valuable in the past:
     control. It's about meeting external demands with less effort.
   * _[The Passionate Programmer](http://www.amazon.com/gp/product/1934356344/ref=as_li_ss_tl?ie=UTF8&tag=pauldowmancom-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1934356344)
     by Chad Fowler._ A short collection of entertainingly-written recipes to
-    inspire your (software development) career and keep yourself relevant.
+    inspire your (software development) career and keep yourself relevant. (I
+    read this book in it's first edition which was named "My Job Went to India
+    (And All I Got Was This Lousy Book)").
   * _[Presentation
     Zen](http://www.amazon.com/gp/product/0321525655/ref=as_li_ss_tl?ie=UTF8&tag=pauldowmancom-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0321525655)
     by Garr Reynolds_. This is a very quick read and it will help you avoid
