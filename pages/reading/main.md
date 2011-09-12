@@ -185,8 +185,7 @@ valuable in the past:
     productive it's about lowering your stress. If you often feel you have too
     much to do, and not enough time to do it, here's how to regain a feeling of
     control. It's about meeting external demands with less effort.
-  * _[My Job Went to India (And All I Got Was this Lousy
-    Book)](http://www.amazon.com/gp/product/0976694018/ref=as_li_ss_tl?ie=UTF8&tag=pauldowmancom-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0976694018)
+  * _[The Passionate Programmer](http://www.amazon.com/gp/product/1934356344/ref=as_li_ss_tl?ie=UTF8&tag=pauldowmancom-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1934356344)
     by Chad Fowler._ A short collection of entertainingly-written recipes to
     inspire your (software development) career and keep yourself relevant.
   * _[Presentation
