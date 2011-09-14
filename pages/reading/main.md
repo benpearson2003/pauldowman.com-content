@@ -8,7 +8,7 @@ perspective.
 
   * _[Getting
     Real](http://www.amazon.com/gp/product/0578012812/ref=as_li_ss_tl?ie=UTF8&tag=pauldowmancom-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0578012812)
-    by Jason Friend and Matthew Linderman_. For developers and non-developers
+    by Jason Fried and Matthew Linderman_. For developers and non-developers
     alike (it's not a technical book), this book explains
     [37signals](http://37signals.com/)' product development philosophy of
     keeping things simple. You can also [read it free
