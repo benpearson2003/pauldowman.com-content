@@ -3,7 +3,7 @@ conclusion that I wanted to be more than just a lone gunslinger, and in fact
 *needed* to be, in order to do larger projects.
 
 So now it's official! I'm excited to announce that I have founded a new
-software development consulting firm: [OK, grow!](http://okgrow.com).
+software development consulting firm: [OK, GROW!](http://okgrow.com).
 We build and support quality web and mobile apps.
 
 {{okgrow-logo.png | image}}
